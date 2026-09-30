@@ -33,6 +33,7 @@ if (result_1 == question_1) {
 
 
 
+
     }
     else { console.log("هتسقط ي فاشل") }
 
